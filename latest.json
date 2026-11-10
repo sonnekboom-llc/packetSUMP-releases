@@ -1,8 +1,12 @@
 {
-  "version": "0.1.0.0",
-  "url": "https://github.com/sonnekboom-llc/packetSUMP-releases/releases/download/v0.1.0/PacketSUMP-0.1.0-alpha-setup.exe",
-  "changelog": "https://github.com/sonnekboom-llc/packetSUMP-releases/releases/tag/v0.1.0",
+  "version": "0.2.0.0",
+  "url": "https://github.com/sonnekboom-llc/packetSUMP-releases/releases/download/v0.2.0/PacketSUMP-0.2.0-alpha-setup.exe",
+  "changelog": "https://github.com/sonnekboom-llc/packetSUMP-releases/releases/tag/v0.2.0",
   "mandatory": {
     "value": false
+  },
+  "checksum": {
+    "value": "E85534564DBEE0ADBAE25E787A2B9726703B50BB9555E4A7981BE871F1E6DA5A",
+    "hashingAlgorithm": "SHA256"
   }
 }
