@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0.0",
+  "url": "https://github.com/sonnekboom-llc/packetSUMP-releases/releases/download/v0.1.0/PacketSUMP-0.1.0-alpha-setup.exe",
+  "changelog": "https://github.com/sonnekboom-llc/packetSUMP-releases/releases/tag/v0.1.0",
+  "mandatory": {
+    "value": false
+  }
+}
